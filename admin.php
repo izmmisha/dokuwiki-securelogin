@@ -21,8 +21,8 @@ class admin_plugin_securelogin extends DokuWiki_Admin_Plugin {
 	 */
 	function getInfo(){
 		return array(
-            'author' => 'Mikhail I. Izmestev',
-            'email'  => 'izmmishao5@gmail.com',
+            'author' => 'Mikhail I. Izmestev, Matt Bagley',
+            'email'  => 'securelogin@mattfiddles.com',
             'date'   => '2014-04-17',
             'name'   => 'Securelogin Plugin',
             'desc'   => 'This plugin lets you login securely without HTTPS, by sending your password in encrypted form to the server.',
