@@ -3,7 +3,7 @@ Securelogin Dokuwiki Plugin
 
 By Mikhail I. Izmestev.
 
-This plugin lets you login securely without HTTPS. It uses [Tom Wu's implementation of RSA algorithm in JavaScript](http://www-cs-students.stanford.edu/~tjw/jsbn/] on the client to encrypt the password with the servers public key. The passwords are sent encrypted over HTTP. No need for HTTPS. Man-in-the-middle attacks are prevented by using a variable token (salt) added to the password before encrypting. Therefore, replay attacks don't work.
+This plugin lets you login securely without HTTPS. It uses [Tom Wu's implementation of RSA algorithm in JavaScript](http://www-cs-students.stanford.edu/~tjw/jsbn/) on the client to encrypt the password with the servers public key. The passwords are sent encrypted over HTTP. No need for HTTPS. Man-in-the-middle attacks are prevented by using a variable token (salt) added to the password before encrypting. Therefore, replay attacks don't work.
 
 With version 20091213 and + , whenever a password has to be entered, it is automagically encrypted by this plugin, be it on the
 *login*, *profile* or *admin* page.
