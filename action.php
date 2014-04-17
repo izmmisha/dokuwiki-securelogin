@@ -18,7 +18,7 @@ class action_plugin_securelogin extends DokuWiki_Action_Plugin {
 		return array(
 	 'author' => 'Mikhail I. Izmestev',
 	 'email'  => 'izmmishao5@gmail.com',
-	 'date'   => '2010-11-07',
+	 'date'   => '2014-04-17',
 	 'name'   => 'securelogin events handler',
 	 'desc'   => '',
 	 'url'    => '',

@@ -1,7 +1,7 @@
 base    securelogin
 author  Mikhail I. Izmestev
 email   izmmishao5@gmail.com
-date    2010-11-21
+date    2014-04-17
 name    Securelogin Plugin
 desc    Secure login via http
 url     http://www.dokuwiki.org/plugin:securelogin
