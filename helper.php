@@ -47,9 +47,9 @@ class helper_plugin_securelogin extends DokuWiki_Plugin {
             'author' => 'Mikhail I. Izmestev',
             'email'  => 'izmmishao5@gmail.com',
             'date'   => '2014-04-17',
-            'name'   => 'securelogin helper',
-            'desc'   => '',
-            'url'    => '',
+            'name'   => 'Securelogin Plugin',
+            'desc'   => 'This plugin lets you login securely without HTTPS, by sending your password in encrypted form to the server.',
+            'url'    => 'http://www.dokuwiki.org/plugin:securelogin',
 		);
 	}
 	
