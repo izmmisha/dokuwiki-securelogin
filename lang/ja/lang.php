@@ -18,5 +18,5 @@ $lang['test_message'] = 'テストメッセージ';
 $lang['test'] = 'Test';
 $lang['use_securelogin'] = '安全なログイン';
 $lang['use_secureupdate'] = 'パスワードの安全な転送を使用';
-$lang['securelogin_conf'] = '安全なログイン設定S';
+$lang['securelogin_conf'] = '安全なログイン設定';
 $lang['sample_message'] = 'これはテストメッセージです。';
