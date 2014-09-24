@@ -1,0 +1,2 @@
+===== プラグインは動作しません =====
+DokuWiki を更新するか、[[http://dev.splitbrain.org/darcsweb/darcsweb.cgi?r=dokuwiki;a=filediff;h=20090312224454-b7b7f-12b7fa78c0b638c1795f6d5e1b1c1aa2cbab64d4.gz;f=inc/auth.php|HTTP リクエストと認証チェック関連のアクションイベントラッパー]]パッチを使用して下さい。
