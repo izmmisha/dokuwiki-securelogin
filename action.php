@@ -16,12 +16,12 @@ class action_plugin_securelogin extends DokuWiki_Action_Plugin {
 	 */
 	function getInfo(){
 		return array(
-	 'author' => 'Mikhail I. Izmestev',
-	 'email'  => 'izmmishao5@gmail.com',
-	 'date'   => '2010-11-07',
-	 'name'   => 'securelogin events handler',
-	 'desc'   => '',
-	 'url'    => '',
+            'author' => 'Mikhail I. Izmestev, Matt Bagley',
+            'email'  => 'securelogin@mattfiddles.com',
+            'date'   => '2014-04-17',
+            'name'   => 'Securelogin Plugin',
+            'desc'   => 'This plugin lets you login securely without HTTPS by sending your password in encrypted form to the server.',
+            'url'    => 'http://www.dokuwiki.org/plugin:securelogin',
 		);
 	}
 	
